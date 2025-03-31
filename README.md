@@ -97,8 +97,6 @@ Using BeautifulSoup, the scraper looks for:
 
 Candidates are sorted by priority and validated in order
 
-Perfect! Here's the **Deduplication** section written in GitHub-friendly Markdown using proper `###` and bullet points, just like you asked — ready for direct use in your `README.md`:
-
 ---
 
 ### 2. Deduplication
